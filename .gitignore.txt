@@ -1,0 +1,25 @@
+# Archivos de datos reales (NO subir información sensible)
+*.xlsx
+*.xls
+*.xlsm
+*.pdf
+*.csv
+
+# Logs
+*.log
+logs/
+output/
+
+# Claves y variables de entorno
+.env
+*.json
+
+# Cache y temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuraciones del sistema
+.DS_Store
+Thumbs.db
